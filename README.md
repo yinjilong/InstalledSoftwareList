@@ -43,6 +43,7 @@
 
 - zoom
 - ppink
+- draw.io
 - VirtualBox
 
 ## Files copy

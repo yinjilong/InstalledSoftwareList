@@ -9,6 +9,7 @@
 - 7Zip
 - Cmder
 - Python 3.11
+- MiniConda
 - PyCharm
 - Spyder
 - sqlite

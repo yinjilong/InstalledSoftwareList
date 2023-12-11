@@ -11,7 +11,7 @@
 - Python 3.11
 - MiniConda
 - PyCharm
-- Spyder
+- Spyder IDE
 - sqlite
 - SQLiteStudio
 - maxima

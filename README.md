@@ -41,6 +41,8 @@
 - PTC CoCreate
 - Basler pylon
 
+- zoom
+
 ## Files copy
 > C:\WINDOWS\system32>robocopy c:\j-yin\ \\nakata9-pc\j-yin\ /E /ZB /R:5 /W:5 /TBD  /V /MT:16
 

@@ -7,6 +7,7 @@
 - GNUWin32 5.3.0
 - Git
 - 7Zip
+- Cmder
 - Python 3.11
 - PyCharm
 - Spyder

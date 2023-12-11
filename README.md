@@ -40,4 +40,4 @@
 - Basler pylon
 
 ## Migrate to New PC
-![Migrate to New PC](https://pureinfotech.com/robocopy-transfer-files-fast-network-windows-10/)
+[Migrate to New PC](https://pureinfotech.com/robocopy-transfer-files-fast-network-windows-10/)

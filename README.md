@@ -30,7 +30,7 @@
 - CPN Tools
 - Inno Setup
 - OmegaT
-- TightVNC/ TigreVNC
+- TightVNC/ TigerVNC
 
 - LibreCAD
 - Zerotier

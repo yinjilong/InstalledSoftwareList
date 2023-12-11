@@ -42,6 +42,7 @@
 - Basler pylon
 
 - zoom
+- DirectCloud
 - ppink
 - draw.io
 - VirtualBox

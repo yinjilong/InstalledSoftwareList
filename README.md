@@ -42,5 +42,6 @@
 - Basler pylon
 
 ## Files copy
+> C:\WINDOWS\system32>robocopy c:\j-yin\ \\nakata9-pc\j-yin\ /E /ZB /R:5 /W:5 /TBD  /V /MT:16
 [How to use Robocopy to transfer files super-fast over the network on Windows 10](https://pureinfotech.com/robocopy-transfer-files-fast-network-windows-10/)
 

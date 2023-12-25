@@ -38,6 +38,9 @@
 - CoCreate
 - KEYENCE, LJX Navigator
 - ICADSX
+  -  ICAD_MACRO_MAKER.exe
+  -  IN2DXF.exe
+  -  MACRO.exe
 - PTC CoCreate
 - Basler pylon
 

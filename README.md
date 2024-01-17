@@ -2,15 +2,10 @@
 
 ## Software list
 - Chrome
-- VS Code
-- Visual studio 2022 community
-- Intel oneAPI HPC Toolkit(Fortran Compiler)
-- NVIDIA CUDA Toolkit
-- GNUWin32 5.3.0
-- Git
+
 - 7Zip
 - Cmder
-- Python 3.11
+
 - MiniConda
 - PyCharm
 - Spyder IDE
@@ -38,6 +33,15 @@
 - VirtualBox
 - MS Project
 
+### Programming
+- VS Code
+- Visual studio 2022 community
+- Intel oneAPI HPC Toolkit(Fortran Compiler)
+- NVIDIA CUDA Toolkit
+- GNUWin32 5.3.0
+- Python 3.11
+- Git
+  
 ### CAD
 - ICADSX
   -  ICAD_MACRO_MAKER.exe

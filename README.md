@@ -6,11 +6,6 @@
 - 7Zip
 - Cmder
 
-- MiniConda
-- PyCharm
-- Spyder IDE
-- sqlite
-- SQLiteStudio
 - maxima
 - R
 - gnuplot
@@ -41,6 +36,11 @@
 - GNUWin32 5.3.0
 - Python 3.11
 - Git
+- MiniConda
+- PyCharm
+- Spyder IDE
+- sqlite
+- SQLiteStudio
   
 ### CAD
 - ICADSX

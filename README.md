@@ -58,7 +58,7 @@
 - obs-studio
 - OpenShot Video Editor
 - VirtualDub
-- Kinovea : アニメーション計測
+- Kinovea : アニメーション計測(Sports analysis)
 
 ## Files copy
 > C:\WINDOWS\system32>robocopy c:\j-yin\ \\nakata9-pc\j-yin\ /E /ZB /R:5 /W:5 /TBD  /V /MT:16

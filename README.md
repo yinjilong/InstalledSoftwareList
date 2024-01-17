@@ -21,35 +21,40 @@
 - gnuplot
 - Notepad++
 - FreeFileSync
-- GIMP
-- Inkscape
-- obs-studio
-- OpenShot Video Editor
 - Pandoc
-- Kinovea
 - CPN Tools
 - Inno Setup
 - OmegaT
 - TightVNC/ TigerVNC
 
-- LibreCAD
 - Zerotier
 - Calibre2
-- CoCreate
 - KEYENCE, LJX Navigator
-- ICADSX
-  -  ICAD_MACRO_MAKER.exe
-  -  IN2DXF.exe
-  -  MACRO.exe
-- PTC CoCreate
 - Basler pylon
 
 - zoom
 - DirectCloud
 - ppink
-- draw.io
 - VirtualBox
 - MS Project
+
+### CAD
+- ICADSX
+  -  ICAD_MACRO_MAKER.exe
+  -  IN2DXF.exe
+  -  MACRO.exe
+- PTC CoCreate
+- CoCreate
+- LibreCAD
+
+### Image & Video
+- draw.io
+- GIMP
+- Inkscape
+- obs-studio
+- OpenShot Video Editor
+- VirtualDub
+- Kinovea : アニメーション計測
 
 ## Files copy
 > C:\WINDOWS\system32>robocopy c:\j-yin\ \\nakata9-pc\j-yin\ /E /ZB /R:5 /W:5 /TBD  /V /MT:16
